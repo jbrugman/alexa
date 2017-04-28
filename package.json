@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+      "alexa-app-server": "^3.0.1"
+    }
+}
