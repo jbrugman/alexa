@@ -1,0 +1,15 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Alexa hello world app",
+  "main": "index.js",
+  "author": "Hey, it is me",
+  "license": "ISC",
+  "alexa": {
+    "applicationId": "amzn1.ask.skill.this.will.be.done.later"
+  },
+  "dependencies": {
+    "alexa-app": "^4.0.0"
+  }
+}
+
